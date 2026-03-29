@@ -2,3 +2,7 @@ streamlit
 pandas
 openpyxl
 reportlab
+supabase
+streamlit-authenticator
+bcrypt
+PyYAML
